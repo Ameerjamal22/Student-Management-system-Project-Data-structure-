@@ -8,13 +8,7 @@ The Student Management System is a C program that provides functionality to mana
 
 ### Prerequisites
 
-To compile and run the program, you need the following:
-
-- A C compiler (e.g., GCC)
-- A terminal or command prompt
-
-
-Features
+### Features
 Insert Student: Add a new student to the system.
 Find and Update Student: Search for a student by ID and update their data.
 List Students in Lexicographic Order: Display all students in lexicographic order of their names.

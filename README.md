@@ -13,18 +13,7 @@ To compile and run the program, you need the following:
 - A C compiler (e.g., GCC)
 - A terminal or command prompt
 
-### Compilation
 
-Use the following command to compile the program:
-
-```bash
-gcc main.c -o student_management
-Running the Program
-After compiling, run the program with this command:
-
-bash
-Copy code
-./student_management
 Features
 Insert Student: Add a new student to the system.
 Find and Update Student: Search for a student by ID and update their data.
@@ -62,3 +51,15 @@ Choose option 7 to save all student records to a file named "students.data.txt."
 
 8. Exit
 To exit the program, select option 8.
+
+### Compilation
+
+Use the following command to compile the program:
+
+```bash
+gcc main.c -o student_management
+Running the Program
+After compiling, run the program with this command:
+Copy code
+./student_management
+
